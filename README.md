@@ -1,5 +1,7 @@
 ClearAnalytics
 
+Project link: https://clranalytics.lovable.app
+
 📊 AI-Powered Data Insights Dashboard
 
 An AI-driven analytics platform that automatically transforms raw CSV/Excel data into interactive dashboards, business insights, and executive reports using OpenAI API.
